@@ -48,7 +48,7 @@
 
 ###
 
-<img align="right" height="156" src="https://i.pinimg.com/originals/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.webp"  />
+<img align="right" height="156" src="https://i.pinimg.com/originals/d1/35/56/d13556ec053cffc2410a682ee33436d6.png"  />
 
 ###
 
@@ -61,8 +61,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ahmadbakri7/ahmadbakri7/output/snake.svg" alt="Snake animation" />
 
